@@ -1,0 +1,1 @@
+{'sequence': 'In Germany, how will Oktoberfest be?', 'labels': ['festival', 'weather', 'economy', 'politics'], 'scores': [0.9750725030899048, 0.011838932521641254, 0.009807050228118896, 0.003281551878899336]}
