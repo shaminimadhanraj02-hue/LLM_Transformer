@@ -1,0 +1,1 @@
+{'sequence': "The Germany's weather is so unpredictable", 'labels': ['climate', 'confused', 'culture', 'education'], 'scores': [0.6007261872291565, 0.38622230291366577, 0.008626304566860199, 0.004425239283591509]}
