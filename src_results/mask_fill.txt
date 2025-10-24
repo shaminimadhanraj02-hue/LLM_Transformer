@@ -1,0 +1,3 @@
+In Germany, Oktoberfest happens in this year.  (score=0.173)
+In Germany, Oktoberfest happens in this way.  (score=0.081)
+In Germany, Oktoberfest happens in this city.  (score=0.058)
